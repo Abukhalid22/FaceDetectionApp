@@ -1,6 +1,6 @@
 # FaceDetectionApp
 
-This is a simple faceDetection Web Application. It uses face recognition API, where users are able to post images and it detects faces in that image. The web application is created using React as the front-end and Node.js and Express as the back-end. PostgresQL is used to  create the database. Below will show step by step how the website works.
+This is a faceDetection Web Application. It uses machine learning face recognition API, where users are able to post images and it detects faces in that image. The web application is created using React as the front-end and Node.js and Express as the back-end. PostgresQL is used to create the database.
 
 ## (1)
 
